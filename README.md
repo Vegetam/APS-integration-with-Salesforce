@@ -5,7 +5,7 @@ You need than modify the file under activi-app/WEB-INF/classes/Salesforce.proper
 
 Here you need add your Username , Password and security token, client_id and client_secret
 
-after you make this than copy the jar that you created on activi-app/WEB-INF/classes/lib/
+after you make this than copy the jar that you created on activi-app/WEB-INF/lib/
 
 Now restart activiti and copy the app that is in the project as well.
 
